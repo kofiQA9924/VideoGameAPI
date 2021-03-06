@@ -1,0 +1,19 @@
+<suite name="GameAPI">
+    <test name="AllAPItest">
+        <classes>
+            <class name="com.VGameAPI.TestCases.GETVGame">
+
+            </class>
+
+        </classes>
+
+
+    </test>
+
+    <Listeners>
+        <Listener name="com.VGameAPI.Reporting.Reporter">
+
+        </Listener>
+
+    </Listeners>
+</suite>
